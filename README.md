@@ -24,7 +24,7 @@ I don't have that much skills but I do have an excellent written and verbal comm
 HOBBY <br/> </h3>
 <p align="center">
 During my free time, I usually do nothing except scrolling on my social media. There's nothing else that can make  me relax except for surfing the net. Sometimes I do like watching movies, reading and playing my guitar. It really depends on how my mood goes. I also eat at times when I'm bored. I know its not a good habit but it's very enjoying.😄
-<p align="center"> 
+ 
 Visit me at:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/almerav)
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/almeravalladolid/?hl=en) <br/> or message me at 📧: almera.valladolid@wvsu.edu.ph
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/almeravalladolid/?hl=en) <br/> or you can message me at 📧: almera.valladolid@wvsu.edu.ph
