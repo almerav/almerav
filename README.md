@@ -1,4 +1,4 @@
-### **Bonjour! Hola! Kon'nichiwa! Annyeong!**
+# **Bonjour! Hola! Kon'nichiwa! Annyeong!**
 ##### WELCOME TO MY GITHUB PROFILE
 ![WELCOME TO MY GITHUB PROFILE](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
