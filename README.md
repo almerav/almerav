@@ -27,4 +27,4 @@ During my free time, I usually do nothing except scrolling on my social media. T
  
 Visit me at:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/almerav)
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/almeravalladolid/?hl=en) <br/> or you can message me at 📧: almera.valladolid@wvsu.edu.ph
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/almeravalladolid/?hl=en) <br/> or you can email me at 📧: almera.valladolid@wvsu.edu.ph
