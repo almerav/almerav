@@ -18,7 +18,7 @@ I love dogs and cats🐶🐱. I love food and travelling. I love almost everythi
 <h3 align="center">
   SKILSS<br/></h3>
 <p align="center">
-I dont have that much skills but I do have an excellent written and verbal communication skills. I am also a highly organized person and I can still produce a best result even when I am in under pressure. Time management is what I am good at😉.
+I don't have that much skills but I do have an excellent written and verbal communication skills. I am also a highly organized person and I can still produce a best result even when I am in under pressure. Time management is what I am good at😉.
 
  <h3 align="center">
 HOBBY <br/> </h3>
