@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Almera Valladolid 👋
+# Hi there, I'm Almera👋
 
 ## 😼 About Me
 I'm a **Computer Science student** passionate about **web development, UI/UX design, and backend technologies**. I have experience working with **React, Next.js, TypeScript, NestJS, PostgreSQL, Python, and Flutter**.
