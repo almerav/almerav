@@ -25,8 +25,6 @@ I'm a **Computer Science student** passionate about **web development, UI/UX des
   </tr>
 </table>
 
-I love crafting slick, scalable apps while geeking out over cool software architectures cuz clean code is a vibe. ✨💅
-
 ---
 
 ## 🔧 Tech Stack
